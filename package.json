@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "npx webpack"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.10",
+    "@types/webpack": "^5.28.5",
+    "ts-loader": "^9.5.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3",
+    "webpack": "^5.90.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
